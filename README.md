@@ -1,49 +1,85 @@
-# Universidad Técnica de Ambato 👋
+<h1 align="center">👋 ¡Hola! Soy Daniel</h1>
+<h3 align="center">🎓 Estudiante en la Universidad Técnica de Ambato | 🚀 Full-Stack Developer</h3>
 
-# 🚀 Full-Stack Developer | Software Engineer | Database Expert
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Full-Stack+Developer;Software+Engineer;Database+Expert" alt="Typing SVG" />
+</p>
 
-Passionate about building scalable, high-performance applications with .NET, Frontend/Backend technologies, and SQL/Oracle databases. Focused on clean architecture, agile methodologies, and innovative solutions.
+---
 
-## 🛠️ Technical Skills
-- *Frontend*: HTML/CSS, JavaScript, React/Angular
-- *Backend*: .NET Core, C#, ASP.NET, Web API, Microservices
-- *Databases*: SQL Server, Oracle, MySQL, NoSQL
+## 💻 Tecnologías y Herramientas
 
-## 💡 What I Bring
-✅ *Full-Stack Expertise*: End-to-end development from UI to database optimization.  
-✅ *Database Mastery*: Design, tuning, and complex queries in SQL Server, Oracle, and MySQL.  
-✅ *Best Practices*: Clean code, SOLID principles, and scalable architecture.  
-✅ *Agile Mindset*: SCRUM/Kanban experience for collaborative project delivery.  
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat)
 
-## 📌 Featured Projects
-- *[Project 1]*: A .NET-based enterprise app with Oracle DB integration.  
-- *[Project 2]*: A full-stack web platform using React + .NET API.   
+### 🔙 Backend
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![REST API](https://img.shields.io/badge/Web%20API-00599C?logo=internet-explorer&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?logo=spring&logoColor=white)
 
-## 🌱 Currently Learning
-- Cloud technologies (AWS/Azure)  
-- Advanced .NET 8 features  
-- Performance optimization  
+### 🗄️ Bases de Datos
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white)
 
-## 🤝 Let's Connect!
-Open to collaborations, open-source contributions, and challenging opportunities.  
+---
 
-📫 *How to reach me*: 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]()
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]() 
-<!--
-*daniel-devlp/daniel-devlp* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+## ✨ ¿Qué me hace diferente?
 
-Here are some ideas to get you started:
+✅ **Full-Stack Expertise**: Desarrollo de aplicaciones completas, desde el frontend hasta el backend y la base de datos.  
+✅ **Dominio de Bases de Datos**: Diseño eficiente, consultas complejas y optimización.  
+✅ **Buenas Prácticas**: Arquitectura limpia, principios SOLID y código mantenible.  
+✅ **Metodologías Ágiles**: SCRUM, Kanban y trabajo colaborativo eficaz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Actualmente Aprendiendo
+
+- ☁️ Tecnologías Cloud: **Azure** / **AWS**  
+- ⚙️ .NET 8 y patrones modernos  
+- 📈 Optimización de rendimiento y seguridad  
+
+---
+
+## 🧩 Proyectos Destacados
+
+- **ERP Empresarial en .NET + Oracle**  
+  Aplicación robusta con autenticación, reporting y módulos personalizados.
+
+- **Plataforma Web Full-Stack**  
+  Desarrollada con React y ASP.NET Core, con autenticación JWT y despliegue en Azure.
+
+---
+
+## 🤝 ¡Conectemos!
+
+<p align="left">
+  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:tucorreo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Siempre listo para construir algo increíble. ¡Gracias por visitar mi perfil!
+</p>
